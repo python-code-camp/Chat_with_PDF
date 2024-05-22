@@ -15,7 +15,7 @@ LlamaCpp: An LLM used for generating answers based on the processed text.
 
 Conversational Retrieval Chain: For maintaining context and generating accurate responses during interaction.
 
-
+------------------
 
 
 Key Features
@@ -30,6 +30,7 @@ Embeddings and Vector Store: Utilizes HuggingFace embeddings and Chroma vector s
 
 Conversational Interface: Engages users in a Q&A session using the LLM with context-aware responses.
 
+------------------
 
 
 
@@ -45,6 +46,7 @@ Create Vector Store: Text chunks are embedded and stored for quick retrieval.
 
 Run the Interaction Loop: Users can ask questions, and the system provides accurate answers based on the document content.
 
+------------------
 
 
 
