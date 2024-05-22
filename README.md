@@ -16,6 +16,8 @@ LlamaCpp: An LLM used for generating answers based on the processed text.
 Conversational Retrieval Chain: For maintaining context and generating accurate responses during interaction.
 
 
+
+
 Key Features
 
 Device Adaptation: Automatically uses CUDA-enabled GPU if available, otherwise falls back to CPU.
@@ -29,6 +31,8 @@ Embeddings and Vector Store: Utilizes HuggingFace embeddings and Chroma vector s
 Conversational Interface: Engages users in a Q&A session using the LLM with context-aware responses.
 
 
+
+
 How It Works
 
 Load the Document: The PDF document is loaded and its content extracted.
@@ -40,6 +44,8 @@ Initialize the Model: An LLM is configured to generate responses based on the pr
 Create Vector Store: Text chunks are embedded and stored for quick retrieval.
 
 Run the Interaction Loop: Users can ask questions, and the system provides accurate answers based on the document content.
+
+
 
 
 Usage
