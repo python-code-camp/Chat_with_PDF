@@ -1,4 +1,7 @@
 # Chat_with_PDF
+
+Do Wacth : https://youtu.be/WmuSEfgzcJo
+
 This project demonstrates how to utilize a Large Language Model (LLM) to process and understand PDF documents for question-answering tasks.
 
 The implementation leverages several powerful libraries to achieve this:
