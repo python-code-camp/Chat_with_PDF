@@ -1,3 +1,5 @@
+""" https://www.youtube.com/@PythonCodeCampOrg """
+
 import torch
 from langchain.document_loaders import CSVLoader, PyPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
